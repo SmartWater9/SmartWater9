@@ -1,5 +1,5 @@
 Spaghetti and meatballs are the pinacle of pasta based food 
-If you disagree i'm afraid you don't have a place in this world
+If you disagree i'm afraid you have no business being here
 
 <!---
 SmartWater9/SmartWater9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
